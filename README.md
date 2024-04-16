@@ -1,4 +1,4 @@
-. Creditials
+# Creditials
 
    # Kishor Kumar Andekar - 700744713
    # Niteesh Kumar Pondugula - 700763258 
